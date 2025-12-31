@@ -36,7 +36,8 @@ The dashboard provides interactive insights into runs scored, match performance,
 
 ## 📷 Dashboard Preview
 
-(./Virat Performance - Image.png)
+<img width="768" height="417" alt="image" src="https://github.com/user-attachments/assets/e92129ed-e941-4c8e-a62c-69bac7077989" />
+
 
 ---
 
